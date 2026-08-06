@@ -1,0 +1,36 @@
+# Archivos temporales del sistema y editores
+.DS_Store
+Thumbs.db
+*~
+*.tmp
+*.bak
+
+# Stata
+*.log
+*.smcl
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Datos o materiales restringidos
+datos_restringidos/
+solucionarios/
+evaluaciones/confidencial/

@@ -1,45 +1,101 @@
 # ECO-305 · Economía Internacional
 
-Repositorio privado de materiales docentes del curso **ECO-305: Economía Internacional**.
+**Universidad Católica Boliviana “San Pablo”**  
+**Gestión 2026 · Segundo semestre · 5 créditos · 80 horas**  
+**Docente:** Ernesto Yáñez Aguilar
 
-## Descripción
+> Un curso avanzado de teoría y evidencia empírica para entender por qué comercian los países, quiénes ganan y pierden con el comercio y cómo evaluar rigurosamente la política comercial.
 
-Este repositorio reúne el programa, las presentaciones, las notas, los laboratorios, los datos y los ejercicios utilizados en el curso. Su organización permite que los estudiantes encuentren los materiales por tipo y que el contenido pueda actualizarse durante el semestre.
+## Propósito del curso
 
-## Contenido
+ECO-305 combina la derivación formal de los principales modelos de comercio internacional con el análisis reproducible de datos reales. Al finalizar la asignatura, el estudiante podrá analizar fenómenos del comercio internacional, contrastar predicciones teóricas con evidencia empírica y evaluar instrumentos de política comercial en términos de bienestar y distribución.
+
+## Competencias
+
+Al concluir el curso, se espera que el estudiante pueda:
+
+- determinar las condiciones y los efectos del comercio internacional;
+- derivar e interpretar los modelos ricardiano, Dornbusch–Fischer–Samuelson, factores específicos, Heckscher–Ohlin, Krugman, Melitz, Eaton–Kortum y la clase de modelos cuantitativos ACR;
+- construir y manipular bases de datos de comercio bilateral en Stata;
+- estimar ecuaciones de gravedad estructural mediante PPML con efectos fijos;
+- implementar pruebas empíricas clásicas y diseños cuasi-experimentales contemporáneos; y
+- evaluar aranceles y otros instrumentos comerciales considerando incidencia, bienestar y efectos distributivos.
+
+## Organización temática
+
+### Unidad 1 · Teorías del comercio en competencia perfecta
+
+Hechos estilizados, mercantilismo, Ricardo, modelo DFS, factores específicos, Heckscher–Ohlin y contrastes empíricos de las teorías clásica y neoclásica.
+
+### Unidad 2 · Nueva teoría del comercio internacional
+
+Rendimientos crecientes, competencia monopolística, heterogeneidad de firmas, modelos de Krugman y Melitz, Eaton–Kortum y modelos cuantitativos de comercio.
+
+### Unidad 3 · Política comercial
+
+Aranceles y medidas no arancelarias, equilibrio parcial y general, acuerdos comerciales, sistema multilateral, gravedad estructural y política comercial contemporánea.
+
+### Unidad 4 · Otros tópicos de interés
+
+Comercio, empleo, salarios y desigualdad; cadenas globales de valor; fragmentación geoeconómica, medio ambiente y temas de frontera.
+
+## Componente empírico
+
+El curso incluye un **Laboratorio 0 diagnóstico** y cinco laboratorios aplicados:
+
+| Laboratorio | Aplicación |
+|---|---|
+| Lab 0 | Matriz exportadora boliviana, 2000–2024 |
+| Lab 1 | Prueba ricardiana con productividades sectoriales |
+| Lab 2 | Contraste empírico de Heckscher–Ohlin |
+| Lab 3 | Modelo de gravedad estructural |
+| Lab 4 | Incidencia de aranceles mediante un diseño *shift-share* |
+| Lab 5 | Descomposición del comercio en valor agregado |
+
+## Evaluación
+
+| Componente | Ponderación |
+|---|---:|
+| Primer examen parcial | 30 % |
+| Segundo examen parcial | 30 % |
+| Laboratorios empíricos | 20 % |
+| Trabajo final aplicado y defensa | 20 % |
+| **Total** | **100 %** |
+
+En los laboratorios se valoran especialmente la reproducibilidad del código, la calidad del informe y la interpretación económica. El trabajo final integra modelización, manejo de datos y comunicación académica.
+
+## Requisitos y software
+
+- **Prerrequisitos:** Microeconomía Intermedia y Econometría I.
+- **Software principal:** Stata 17 o superior.
+- **Software complementario:** R.
+- **Documentación técnica:** LaTeX y Markdown cuando corresponda.
+
+## Materiales del repositorio
 
 | Carpeta | Contenido |
 |---|---|
-| `programa/` | Programa, cronograma y criterios de evaluación |
-| `clases/` | Presentaciones y materiales de cada unidad |
-| `notas/` | Notas técnicas y apuntes complementarios |
-| `lecturas/` | Referencias y enlaces a lecturas autorizadas |
-| `laboratorios/` | Guías, datos y archivos de cada laboratorio |
-| `datos/` | Bases de datos de uso transversal y sus metadatos |
-| `codigo/` | Código reproducible en Stata, R y LaTeX |
-| `ejercicios/` | Prácticas y actividades para estudiantes |
-| `evaluaciones/` | Instrucciones y materiales que puedan compartirse |
+| [`programa/`](programa/) | Programa oficial, cronograma y criterios de evaluación |
+| [`clases/`](clases/) | Presentaciones y materiales de las unidades |
+| [`notas/`](notas/) | Desarrollos matemáticos y notas técnicas |
+| [`lecturas/`](lecturas/) | Bibliografía y enlaces autorizados |
+| [`laboratorios/`](laboratorios/) | Guías, datos, código y productos de cada laboratorio |
+| [`datos/`](datos/) | Bases de datos, diccionarios y notas de fuentes |
+| [`codigo/`](codigo/) | Código reproducible en Stata, R y LaTeX |
+| [`ejercicios/`](ejercicios/) | Problemas, prácticas y preguntas de discusión |
+| [`evaluaciones/`](evaluaciones/) | Rúbricas e instrucciones que pueden compartirse |
 
-## Unidades temáticas
+## Bibliografía básica
 
-1. Introducción al comercio internacional.
-2. Mercantilismo, ventaja absoluta y ventaja comparativa.
-3. Modelo ricardiano.
-4. Factores específicos y distribución del ingreso.
-5. Modelo Heckscher–Ohlin.
-6. Economías de escala y competencia imperfecta.
-7. Firmas heterogéneas y comercio internacional.
-8. Política comercial.
-9. Integración económica y temas contemporáneos.
+- Feenstra, R. C. (2016). *Advanced International Trade: Theory and Evidence*. 2.ª ed. Princeton University Press.
+- Krugman, P., Obstfeld, M. y Melitz, M. (2012). *Economía internacional: teoría y política*. 9.ª ed. Pearson.
+- Yotov, Y., Piermartini, R., Monteiro, J. y Larch, M. (2016). *An Advanced Guide to Trade Policy Analysis: The Structural Gravity Model*. Naciones Unidas–OMC.
+- Helpman, E. (2011). *Understanding Global Trade*. Harvard University Press.
 
-## Software
+Las lecturas obligatorias de cada unidad se encuentran detalladas en el programa oficial.
 
-Los laboratorios pueden emplear **Stata**, **R** y **LaTeX**. Cada laboratorio indicará sus requisitos y el orden de ejecución de los archivos.
+## Reproducibilidad y uso responsable
 
-## Uso del repositorio
+Cada laboratorio debe incluir una guía, los datos permitidos, el código en orden de ejecución y una carpeta de resultados. No se deben subir datos confidenciales, exámenes vigentes, solucionarios ni copias no autorizadas de obras protegidas.
 
-El repositorio es privado y está destinado exclusivamente a las personas autorizadas del curso. Los materiales no deben redistribuirse sin autorización. Las lecturas protegidas por derechos de autor se compartirán mediante enlaces institucionales o canales autorizados.
-
-## Responsable
-
-Docente del curso ECO-305.
+Este es un repositorio privado destinado a las personas autorizadas del curso ECO-305.

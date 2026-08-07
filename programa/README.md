@@ -1,3 +1,3 @@
 # Programa
 
-Aquí se almacenan el programa oficial, el cronograma y los criterios de evaluación del curso.
+[Programa_ECO305_2026.pdf](https://github.com/user-attachments/files/30808531/Programa_ECO305_2026.pdf)

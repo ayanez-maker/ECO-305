@@ -56,7 +56,7 @@ El curso incluye seis laboratorios aplicados:
 |---|---:|
 | Primer examen parcial | 30 % |
 | Segundo examen parcial | 30 % |
-| Laboratorios empíricos | 20 % |
+| Laboratorios | 20 % |
 | Trabajo final aplicado y defensa | 20 % |
 | **Total** | **100 %** |
 

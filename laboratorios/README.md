@@ -12,3 +12,4 @@ Lab0/
 ├── figuras/
 └── output/
 ```
+

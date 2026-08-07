@@ -4,8 +4,6 @@
 **Gestión 2026 · Segundo semestre · 5 créditos · 80 horas**  
 **Docente:** Ernesto Yáñez Aguilar
 
-> Un curso avanzado de teoría y evidencia empírica para entender por qué comercian los países, quiénes ganan y pierden con el comercio y cómo evaluar rigurosamente la política comercial.
-
 ## Propósito del curso
 
 ECO-305 combina la derivación formal de los principales modelos de comercio internacional con el análisis reproducible de datos reales. Al finalizar la asignatura, el estudiante podrá analizar fenómenos del comercio internacional, contrastar predicciones teóricas con evidencia empírica y evaluar instrumentos de política comercial en términos de bienestar y distribución.
@@ -41,7 +39,7 @@ Comercio, empleo, salarios y desigualdad; cadenas globales de valor; fragmentaci
 
 ## Componente empírico
 
-El curso incluye un **Laboratorio 0 diagnóstico** y cinco laboratorios aplicados:
+El curso incluye seis laboratorios aplicados:
 
 | Laboratorio | Aplicación |
 |---|---|
@@ -62,13 +60,10 @@ El curso incluye un **Laboratorio 0 diagnóstico** y cinco laboratorios aplicado
 | Trabajo final aplicado y defensa | 20 % |
 | **Total** | **100 %** |
 
-En los laboratorios se valoran especialmente la reproducibilidad del código, la calidad del informe y la interpretación económica. El trabajo final integra modelización, manejo de datos y comunicación académica.
-
 ## Requisitos y software
 
 - **Prerrequisitos:** Microeconomía Intermedia y Econometría I.
 - **Software principal:** Stata 17 o superior.
-- **Software complementario:** R.
 - **Documentación técnica:** LaTeX y Markdown cuando corresponda.
 
 ## Materiales del repositorio
@@ -96,6 +91,4 @@ Las lecturas obligatorias de cada unidad se encuentran detalladas en el programa
 
 ## Reproducibilidad y uso responsable
 
-Cada laboratorio debe incluir una guía, los datos permitidos, el código en orden de ejecución y una carpeta de resultados. No se deben subir datos confidenciales, exámenes vigentes, solucionarios ni copias no autorizadas de obras protegidas.
-
-Este es un repositorio privado destinado a las personas autorizadas del curso ECO-305.
+Este es un repositorio privado destinado a los estudiantes del curso ECO-305.

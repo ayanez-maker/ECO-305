@@ -71,7 +71,7 @@ El curso incluye seis laboratorios aplicados:
 | Carpeta | Contenido |
 |---|---|
 | [`programa/`](programa/) | Programa oficial, cronograma y criterios de evaluación |
-| [`clases/`](clases/) | Presentaciones y materiales de las unidades |
+| [`presentaciones/`](presentaciones/) | Presentaciones de clase y materiales de las unidades |
 | [`notas/`](notas/) | Desarrollos matemáticos y notas técnicas |
 | [`lecturas/`](lecturas/) | Bibliografía y enlaces autorizados |
 | [`laboratorios/`](laboratorios/) | Guías, datos, código y productos de cada laboratorio |

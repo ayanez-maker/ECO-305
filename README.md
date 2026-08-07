@@ -88,7 +88,3 @@ El curso incluye seis laboratorios aplicados:
 - Helpman, E. (2011). *Understanding Global Trade*. Harvard University Press.
 
 Las lecturas obligatorias de cada unidad se encuentran detalladas en el programa oficial.
-
-## Reproducibilidad y uso responsable
-
-Este es un repositorio privado destinado a los estudiantes del curso ECO-305.

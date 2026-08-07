@@ -1,0 +1,571 @@
+country_iso3,country,isic2,sector_name,productivity_usd,employment,output_usd,exports_usd
+ARG,Argentina,15,Alimentos y bebidas,60214.1,22729,1368607021.0,769170778.0
+ARG,Argentina,17,Textiles,27236.3,34970,952451723.0,0.0
+ARG,Argentina,18,Prendas de vestir,17053.9,33233,566750782.0,0.0
+ARG,Argentina,19,Cuero y calzado,31069.1,29733,923777371.0,7322580.0
+ARG,Argentina,20,Madera y corcho,45486.5,28832,1311466111.0,39079643.0
+ARG,Argentina,21,Papel y celulosa,34392.5,23564,810426013.0,0.0
+ARG,Argentina,24,Sustancias y prod. quimicos,51721.3,18591,961550265.0,0.0
+ARG,Argentina,25,Caucho y plastico,40788.5,28598,1166470022.0,36404385.0
+ARG,Argentina,26,Minerales no metalicos,45277.5,35250,1596030783.0,19959577.0
+ARG,Argentina,27,Metales comunes (basicos),87543.0,23142,2025919972.0,6291316792.0
+ARG,Argentina,28,Productos metalicos,61215.0,21526,1317714545.0,0.0
+ARG,Argentina,29,Maquinaria y equipo,73441.3,15849,1163971185.0,2764014335.0
+ARG,Argentina,30,Maquinaria de oficina/comp.,52819.1,19795,1045553338.0,318199192.0
+ARG,Argentina,31,Maquinaria electrica,83560.0,16088,1344313388.0,2912851838.0
+ARG,Argentina,32,Equipo de comunicaciones,53837.9,25249,1359352917.0,0.0
+ARG,Argentina,33,Instrumentos de precision,60114.0,11642,699846765.0,446894668.0
+ARG,Argentina,34,Vehiculos automotores,82291.3,22574,1857643918.0,4905727262.0
+ARG,Argentina,35,Otro equipo de transporte,92352.8,20314,1876054195.0,8234465369.0
+ARG,Argentina,36,Muebles y otras manuf.,22775.4,26938,613522573.0,0.0
+BOL,Bolivia,15,Alimentos y bebidas,39889.5,1981,79021192.0,93868669.0
+BOL,Bolivia,17,Textiles,21055.4,2145,45163761.0,0.0
+BOL,Bolivia,18,Prendas de vestir,17496.4,2280,39891852.0,59979.0
+BOL,Bolivia,19,Cuero y calzado,20614.9,2440,50300385.0,118443.0
+BOL,Bolivia,20,Madera y corcho,78149.4,1858,145201613.0,1715772538.0
+BOL,Bolivia,21,Papel y celulosa,20758.2,1670,34666169.0,0.0
+BOL,Bolivia,24,Sustancias y prod. quimicos,16648.5,1336,22242341.0,0.0
+BOL,Bolivia,25,Caucho y plastico,27997.6,2169,60726756.0,2336197.0
+BOL,Bolivia,26,Minerales no metalicos,39491.5,2046,80799637.0,31641463.0
+BOL,Bolivia,27,Metales comunes (basicos),51867.1,1038,53838044.0,188240905.0
+BOL,Bolivia,28,Productos metalicos,35162.8,1995,70149847.0,12827453.0
+BOL,Bolivia,29,Maquinaria y equipo,15838.5,1852,29332811.0,0.0
+BOL,Bolivia,30,Maquinaria de oficina/comp.,20617.8,1284,26473263.0,0.0
+BOL,Bolivia,31,Maquinaria electrica,53697.1,1185,63631051.0,144883677.0
+BOL,Bolivia,32,Equipo de comunicaciones,22502.8,1706,38389694.0,0.0
+BOL,Bolivia,33,Instrumentos de precision,19623.2,1350,26491350.0,143300.0
+BOL,Bolivia,34,Vehiculos automotores,22987.1,770,17700085.0,0.0
+BOL,Bolivia,35,Otro equipo de transporte,19468.1,1209,23536896.0,0.0
+BOL,Bolivia,36,Muebles y otras manuf.,32935.6,2641,86982873.0,7046182.0
+BRA,Brasil,15,Alimentos y bebidas,67916.7,134157,9111499048.0,366093433.0
+BRA,Brasil,17,Textiles,32046.2,108114,3464646909.0,515220.0
+BRA,Brasil,18,Prendas de vestir,22312.2,136818,3052712398.0,69529.0
+BRA,Brasil,19,Cuero y calzado,16116.8,85496,1377926145.0,0.0
+BRA,Brasil,20,Madera y corcho,39874.9,108836,4339822216.0,2635136.0
+BRA,Brasil,21,Papel y celulosa,41465.1,64136,2659403134.0,7912626.0
+BRA,Brasil,24,Sustancias y prod. quimicos,35851.1,64648,2317701155.0,0.0
+BRA,Brasil,25,Caucho y plastico,36044.7,67641,2438101040.0,1673264.0
+BRA,Brasil,26,Minerales no metalicos,38089.2,92580,3526294835.0,1863979.0
+BRA,Brasil,27,Metales comunes (basicos),52477.8,75759,3975667922.0,69773694.0
+BRA,Brasil,28,Productos metalicos,71037.8,109728,7794837530.0,706045124.0
+BRA,Brasil,29,Maquinaria y equipo,57973.1,54972,3186894940.0,174479475.0
+BRA,Brasil,30,Maquinaria de oficina/comp.,50092.6,75388,3776378265.0,0.0
+BRA,Brasil,31,Maquinaria electrica,33290.1,85127,2833883178.0,4110520.0
+BRA,Brasil,32,Equipo de comunicaciones,154771.8,78413,12136118970.0,108393403433.0
+BRA,Brasil,33,Instrumentos de precision,56240.5,90180,5071764111.0,36758866.0
+BRA,Brasil,34,Vehiculos automotores,46817.6,55378,2592667714.0,47123889.0
+BRA,Brasil,35,Otro equipo de transporte,46147.9,49302,2275183918.0,6977773.0
+BRA,Brasil,36,Muebles y otras manuf.,50990.1,89901,4584063820.0,31363410.0
+CHL,Chile,15,Alimentos y bebidas,66382.1,15775,1047177202.0,179287766.0
+CHL,Chile,17,Textiles,35588.0,13424,477733099.0,1126164.0
+CHL,Chile,18,Prendas de vestir,21673.5,25049,542898290.0,0.0
+CHL,Chile,19,Cuero y calzado,38645.4,24973,965091031.0,0.0
+CHL,Chile,20,Madera y corcho,56438.8,31621,1784651680.0,17100302.0
+CHL,Chile,21,Papel y celulosa,51024.8,14570,743431396.0,0.0
+CHL,Chile,24,Sustancias y prod. quimicos,98000.5,18482,1811244631.0,4082585343.0
+CHL,Chile,25,Caucho y plastico,62629.3,16423,1028561430.0,0.0
+CHL,Chile,26,Minerales no metalicos,35920.2,20718,744194274.0,0.0
+CHL,Chile,27,Metales comunes (basicos),115667.9,18785,2172822103.0,14508377192.0
+CHL,Chile,28,Productos metalicos,50716.3,24436,1239303697.0,0.0
+CHL,Chile,29,Maquinaria y equipo,47839.8,15750,753476387.0,0.0
+CHL,Chile,30,Maquinaria de oficina/comp.,58078.9,14877,864039073.0,0.0
+CHL,Chile,31,Maquinaria electrica,73369.1,18293,1342141616.0,309839655.0
+CHL,Chile,32,Equipo de comunicaciones,62517.9,12962,810357531.0,0.0
+CHL,Chile,33,Instrumentos de precision,38400.3,18177,698001805.0,0.0
+CHL,Chile,34,Vehiculos automotores,102365.1,9183,940018287.0,2276487888.0
+CHL,Chile,35,Otro equipo de transporte,86738.7,19926,1728355619.0,3366212006.0
+CHL,Chile,36,Muebles y otras manuf.,32496.0,27878,905922232.0,0.0
+CHN,China,15,Alimentos y bebidas,38611.7,1417371,54727134988.0,1884875990.0
+CHN,China,17,Textiles,56122.7,2111540,118505384751.0,9461619356.0
+CHN,China,18,Prendas de vestir,43112.9,2139410,92236263600.0,2610951157.0
+CHN,China,19,Cuero y calzado,26160.9,2158840,56477290162.0,17541707.0
+CHN,China,20,Madera y corcho,37564.7,1550619,58248605386.0,746561730.0
+CHN,China,21,Papel y celulosa,47124.3,1348313,63538246349.0,1798929064.0
+CHN,China,24,Sustancias y prod. quimicos,37200.3,989120,36795551785.0,1098742495.0
+CHN,China,25,Caucho y plastico,93638.4,1595506,149400628606.0,235938723469.0
+CHN,China,26,Minerales no metalicos,56029.3,1938599,108618384470.0,6946708317.0
+CHN,China,27,Metales comunes (basicos),52936.3,1592269,84288895045.0,0.0
+CHN,China,28,Productos metalicos,44291.1,1580262,69991590014.0,4014242243.0
+CHN,China,29,Maquinaria y equipo,28501.5,1990461,56731119358.0,88667365.0
+CHN,China,30,Maquinaria de oficina/comp.,123128.0,1016960,125216267548.0,1492493360390.0
+CHN,China,31,Maquinaria electrica,54930.0,1317925,72393665556.0,19704970012.0
+CHN,China,32,Equipo de comunicaciones,56253.5,964184,54238718471.0,0.0
+CHN,China,33,Instrumentos de precision,85062.6,1117395,95048523009.0,91322296246.0
+CHN,China,34,Vehiculos automotores,43397.5,1023732,44427384687.0,2783312841.0
+CHN,China,35,Otro equipo de transporte,26009.2,904643,23529055946.0,55903077.0
+CHN,China,36,Muebles y otras manuf.,40451.9,1438289,58181561143.0,1734341836.0
+COL,Colombia,15,Alimentos y bebidas,54254.8,18019,977616529.0,454257793.0
+COL,Colombia,17,Textiles,23952.5,14138,338640939.0,934586.0
+COL,Colombia,18,Prendas de vestir,24620.7,27203,669758029.0,1262716.0
+COL,Colombia,19,Cuero y calzado,23846.0,19637,468264489.0,0.0
+COL,Colombia,20,Madera y corcho,29516.6,18442,544344477.0,1705507.0
+COL,Colombia,21,Papel y celulosa,47543.1,18925,899753627.0,85196504.0
+COL,Colombia,24,Sustancias y prod. quimicos,77377.4,11588,896649282.0,4806713540.0
+COL,Colombia,25,Caucho y plastico,63040.0,14888,938539982.0,1213445329.0
+COL,Colombia,26,Minerales no metalicos,34728.1,15866,550995261.0,6372892.0
+COL,Colombia,27,Metales comunes (basicos),33047.9,18691,617697690.0,0.0
+COL,Colombia,28,Productos metalicos,23254.5,20105,467531091.0,0.0
+COL,Colombia,29,Maquinaria y equipo,71980.8,13116,944100155.0,1714900891.0
+COL,Colombia,30,Maquinaria de oficina/comp.,76970.0,14189,1092126695.0,1081429355.0
+COL,Colombia,31,Maquinaria electrica,55356.1,15349,849661075.0,163988180.0
+COL,Colombia,32,Equipo de comunicaciones,76291.5,14044,1071438271.0,2538266332.0
+COL,Colombia,33,Instrumentos de precision,88256.4,15257,1346528429.0,2980973145.0
+COL,Colombia,34,Vehiculos automotores,48949.0,13014,637022365.0,0.0
+COL,Colombia,35,Otro equipo de transporte,88432.0,14336,1267761221.0,4481660544.0
+COL,Colombia,36,Muebles y otras manuf.,32396.4,12796,414544354.0,4953664.0
+DEU,Alemania,15,Alimentos y bebidas,122894.4,1193408,146663114423.0,8380918809.0
+DEU,Alemania,17,Textiles,85267.5,1333222,113680451888.0,0.0
+DEU,Alemania,18,Prendas de vestir,50844.9,1349548,68617594812.0,0.0
+DEU,Alemania,19,Cuero y calzado,50807.1,1375532,69886760202.0,0.0
+DEU,Alemania,20,Madera y corcho,77796.6,1373115,106823729074.0,41064808.0
+DEU,Alemania,21,Papel y celulosa,71557.9,883619,63229890647.0,0.0
+DEU,Alemania,24,Sustancias y prod. quimicos,136405.3,800142,109143595348.0,9158813590.0
+DEU,Alemania,25,Caucho y plastico,85753.8,1185357,101648828660.0,0.0
+DEU,Alemania,26,Minerales no metalicos,257082.4,681411,175178794417.0,254792028494.0
+DEU,Alemania,27,Metales comunes (basicos),153047.9,703743,107706420763.0,28709627007.0
+DEU,Alemania,28,Productos metalicos,65395.3,628389,41093666027.0,35023499.0
+DEU,Alemania,29,Maquinaria y equipo,139644.7,1686745,235545047031.0,3284171514.0
+DEU,Alemania,30,Maquinaria de oficina/comp.,191830.7,465672,89330175519.0,76723357268.0
+DEU,Alemania,31,Maquinaria electrica,131863.5,999439,131789562118.0,2535436449.0
+DEU,Alemania,32,Equipo de comunicaciones,30199.8,670522,20249631400.0,588541.0
+DEU,Alemania,33,Instrumentos de precision,208320.2,805735,167850897364.0,113644718261.0
+DEU,Alemania,34,Vehiculos automotores,240323.6,966584,232292966372.0,601105222674.0
+DEU,Alemania,35,Otro equipo de transporte,105688.1,1057134,111726470860.0,627177465.0
+DEU,Alemania,36,Muebles y otras manuf.,107343.1,894262,95992850710.0,397592738.0
+ECU,Ecuador,15,Alimentos y bebidas,36763.1,4071,149662683.0,12016722.0
+ECU,Ecuador,17,Textiles,21969.8,5972,131203568.0,588017.0
+ECU,Ecuador,18,Prendas de vestir,16969.4,3521,59749140.0,0.0
+ECU,Ecuador,19,Cuero y calzado,20429.2,5430,110930419.0,140004.0
+ECU,Ecuador,20,Madera y corcho,13791.2,4244,58529720.0,13952.0
+ECU,Ecuador,21,Papel y celulosa,32521.7,5858,190512281.0,2812500.0
+ECU,Ecuador,24,Sustancias y prod. quimicos,89112.1,3902,347715257.0,4810592148.0
+ECU,Ecuador,25,Caucho y plastico,23165.7,4251,98477304.0,0.0
+ECU,Ecuador,26,Minerales no metalicos,29376.8,5503,161660678.0,3081333.0
+ECU,Ecuador,27,Metales comunes (basicos),34352.2,3761,129198646.0,11825695.0
+ECU,Ecuador,28,Productos metalicos,52402.0,2322,121677419.0,119552647.0
+ECU,Ecuador,29,Maquinaria y equipo,49470.4,4789,236913558.0,145633972.0
+ECU,Ecuador,30,Maquinaria de oficina/comp.,43685.7,3384,147832288.0,0.0
+ECU,Ecuador,31,Maquinaria electrica,39978.4,4061,162352171.0,0.0
+ECU,Ecuador,32,Equipo de comunicaciones,58544.9,3902,228442114.0,598088587.0
+ECU,Ecuador,33,Instrumentos de precision,58580.5,3233,189390870.0,143346022.0
+ECU,Ecuador,34,Vehiculos automotores,43932.1,1866,81977304.0,58642090.0
+ECU,Ecuador,35,Otro equipo de transporte,28760.4,2772,79723852.0,0.0
+ECU,Ecuador,36,Muebles y otras manuf.,18384.3,5989,110103788.0,0.0
+EGY,Egipto,15,Alimentos y bebidas,33555.9,10709,359349825.0,17916623.0
+EGY,Egipto,17,Textiles,16380.4,17037,279072277.0,119968.0
+EGY,Egipto,18,Prendas de vestir,21569.8,15625,337028447.0,2313762.0
+EGY,Egipto,19,Cuero y calzado,28735.5,16756,481492040.0,9983030.0
+EGY,Egipto,20,Madera y corcho,30583.8,18606,569043026.0,5615273.0
+EGY,Egipto,21,Papel y celulosa,17975.1,11188,201105497.0,0.0
+EGY,Egipto,24,Sustancias y prod. quimicos,34655.6,16944,587204442.0,41780778.0
+EGY,Egipto,25,Caucho y plastico,26809.4,10988,294582187.0,0.0
+EGY,Egipto,26,Minerales no metalicos,34214.3,16418,561730928.0,22022599.0
+EGY,Egipto,27,Metales comunes (basicos),18662.4,11701,218368983.0,1620513.0
+EGY,Egipto,28,Productos metalicos,19728.1,13999,276173383.0,0.0
+EGY,Egipto,29,Maquinaria y equipo,32366.1,14608,472803586.0,0.0
+EGY,Egipto,30,Maquinaria de oficina/comp.,42737.8,12753,545035352.0,109582326.0
+EGY,Egipto,31,Maquinaria electrica,71859.9,15000,1077897998.0,6583235718.0
+EGY,Egipto,32,Equipo de comunicaciones,68152.5,9329,635794390.0,9712502257.0
+EGY,Egipto,33,Instrumentos de precision,43882.8,6946,304809861.0,177179051.0
+EGY,Egipto,34,Vehiculos automotores,42650.9,10495,447621582.0,134155555.0
+EGY,Egipto,35,Otro equipo de transporte,52648.4,10939,575921059.0,570889152.0
+EGY,Egipto,36,Muebles y otras manuf.,50870.1,22797,1159685319.0,586949138.0
+ESP,Espania,15,Alimentos y bebidas,37320.9,141082,5265306607.0,3520855.0
+ESP,Espania,17,Textiles,35949.6,206828,7435382602.0,0.0
+ESP,Espania,18,Prendas de vestir,67229.2,205252,13798930645.0,161217734.0
+ESP,Espania,19,Cuero y calzado,51019.7,171490,8749367890.0,7562946.0
+ESP,Espania,20,Madera y corcho,61152.7,290650,17774031241.0,59144354.0
+ESP,Espania,21,Papel y celulosa,75431.0,103346,7795487252.0,0.0
+ESP,Espania,24,Sustancias y prod. quimicos,112740.9,120603,13596890860.0,3620786370.0
+ESP,Espania,25,Caucho y plastico,129856.9,260541,33833046525.0,11760436675.0
+ESP,Espania,26,Minerales no metalicos,42381.9,222068,9411664810.0,3325808.0
+ESP,Espania,27,Metales comunes (basicos),113991.8,156598,17850888785.0,4151743929.0
+ESP,Espania,28,Productos metalicos,73167.4,161213,11795529948.0,0.0
+ESP,Espania,29,Maquinaria y equipo,62212.6,130618,8126090376.0,153489472.0
+ESP,Espania,30,Maquinaria de oficina/comp.,80701.8,144709,11678271122.0,0.0
+ESP,Espania,31,Maquinaria electrica,169811.4,163304,27730877962.0,31947214387.0
+ESP,Espania,32,Equipo de comunicaciones,89138.3,133763,11923409649.0,1796385183.0
+ESP,Espania,33,Instrumentos de precision,183112.7,131344,24050751928.0,36346385699.0
+ESP,Espania,34,Vehiculos automotores,198358.6,159242,31587012991.0,126428565854.0
+ESP,Espania,35,Otro equipo de transporte,120349.8,123473,14859947748.0,2984703399.0
+ESP,Espania,36,Muebles y otras manuf.,44785.5,122972,5507364466.0,10943274.0
+FRA,Francia,15,Alimentos y bebidas,114499.0,236279,27053710471.0,410576028.0
+FRA,Francia,17,Textiles,89639.5,305742,27406572866.0,84037167.0
+FRA,Francia,18,Prendas de vestir,36985.9,494991,18307698399.0,412689.0
+FRA,Francia,19,Cuero y calzado,51430.3,318395,16375143305.0,1220257.0
+FRA,Francia,20,Madera y corcho,79535.8,362240,28811039659.0,12529168.0
+FRA,Francia,21,Papel y celulosa,102191.8,284124,29035150564.0,63454700.0
+FRA,Francia,24,Sustancias y prod. quimicos,243895.4,250724,61150425000.0,83860265710.0
+FRA,Francia,25,Caucho y plastico,55042.8,262458,14446414886.0,785581.0
+FRA,Francia,26,Minerales no metalicos,134973.8,526945,71123765555.0,543993416.0
+FRA,Francia,27,Metales comunes (basicos),145218.4,402557,58458668533.0,2947726862.0
+FRA,Francia,28,Productos metalicos,76401.9,337133,25757607353.0,18217021.0
+FRA,Francia,29,Maquinaria y equipo,114288.7,420621,48072226531.0,0.0
+FRA,Francia,30,Maquinaria de oficina/comp.,311995.3,207818,64838249142.0,206553407978.0
+FRA,Francia,31,Maquinaria electrica,261906.8,253127,66295685492.0,66247745975.0
+FRA,Francia,32,Equipo de comunicaciones,152009.6,213938,32520638236.0,3099096962.0
+FRA,Francia,33,Instrumentos de precision,123433.0,474136,58524023109.0,0.0
+FRA,Francia,34,Vehiculos automotores,159726.4,216683,34609986458.0,7766487304.0
+FRA,Francia,35,Otro equipo de transporte,184091.3,286628,52765713134.0,7461539649.0
+FRA,Francia,36,Muebles y otras manuf.,92518.4,348364,32230090750.0,85508647.0
+GBR,Reino Unido,15,Alimentos y bebidas,76378.4,199974,15273700429.0,235358065.0
+GBR,Reino Unido,17,Textiles,45787.7,235554,10785467078.0,0.0
+GBR,Reino Unido,18,Prendas de vestir,91864.1,345170,31708741669.0,447361831.0
+GBR,Reino Unido,19,Cuero y calzado,65194.5,398336,25969308188.0,25345675.0
+GBR,Reino Unido,20,Madera y corcho,84626.5,334851,28337267411.0,0.0
+GBR,Reino Unido,21,Papel y celulosa,97346.8,176143,17146953755.0,945894024.0
+GBR,Reino Unido,24,Sustancias y prod. quimicos,107248.4,183194,19647261800.0,616959109.0
+GBR,Reino Unido,25,Caucho y plastico,165578.7,273198,45235773819.0,31407518094.0
+GBR,Reino Unido,26,Minerales no metalicos,102996.1,331898,34184199290.0,250193120.0
+GBR,Reino Unido,27,Metales comunes (basicos),78578.1,156801,12321122109.0,242740725.0
+GBR,Reino Unido,28,Productos metalicos,117706.3,257630,30324668669.0,3415030869.0
+GBR,Reino Unido,29,Maquinaria y equipo,213036.4,200280,42666936936.0,196284879066.0
+GBR,Reino Unido,30,Maquinaria de oficina/comp.,203817.6,180599,36809252236.0,49758370450.0
+GBR,Reino Unido,31,Maquinaria electrica,174294.2,234930,40946925561.0,9406455614.0
+GBR,Reino Unido,32,Equipo de comunicaciones,73365.7,222594,16330755682.0,0.0
+GBR,Reino Unido,33,Instrumentos de precision,114319.5,189754,21692584289.0,0.0
+GBR,Reino Unido,34,Vehiculos automotores,90762.2,195230,17719513780.0,1265816046.0
+GBR,Reino Unido,35,Otro equipo de transporte,72717.6,199830,14531156614.0,0.0
+GBR,Reino Unido,36,Muebles y otras manuf.,79409.7,241908,19209853447.0,224938924.0
+IDN,Indonesia,15,Alimentos y bebidas,18890.0,92174,1741165951.0,0.0
+IDN,Indonesia,17,Textiles,22622.3,86146,1948819867.0,15806060.0
+IDN,Indonesia,18,Prendas de vestir,15929.0,149793,2386047460.0,2800839.0
+IDN,Indonesia,19,Cuero y calzado,29399.3,104867,3083021252.0,28405973.0
+IDN,Indonesia,20,Madera y corcho,24356.7,98369,2395942511.0,0.0
+IDN,Indonesia,21,Papel y celulosa,23961.5,81281,1947614650.0,3986460.0
+IDN,Indonesia,24,Sustancias y prod. quimicos,22964.2,143354,3292017087.0,56467362.0
+IDN,Indonesia,25,Caucho y plastico,20572.3,57549,1183914140.0,13559421.0
+IDN,Indonesia,26,Minerales no metalicos,24211.0,174623,4227792817.0,35322581.0
+IDN,Indonesia,27,Metales comunes (basicos),50622.6,105133,5322100951.0,0.0
+IDN,Indonesia,28,Productos metalicos,18936.5,69234,1311052063.0,3170770.0
+IDN,Indonesia,29,Maquinaria y equipo,47743.5,72431,3458112574.0,2719635358.0
+IDN,Indonesia,30,Maquinaria de oficina/comp.,61773.1,54799,3385104644.0,10904218695.0
+IDN,Indonesia,31,Maquinaria electrica,48329.6,115698,5591640650.0,5277281109.0
+IDN,Indonesia,32,Equipo de comunicaciones,66584.5,74123,4935441868.0,81930864545.0
+IDN,Indonesia,33,Instrumentos de precision,28618.3,44566,1275403291.0,125419393.0
+IDN,Indonesia,34,Vehiculos automotores,32639.0,51535,1682048790.0,793144074.0
+IDN,Indonesia,35,Otro equipo de transporte,46184.3,108083,4991734746.0,0.0
+IDN,Indonesia,36,Muebles y otras manuf.,24651.4,80070,1973839622.0,24820181.0
+IND,India,15,Alimentos y bebidas,10486.0,186424,1954842364.0,0.0
+IND,India,17,Textiles,30886.8,259100,8002766917.0,635611987.0
+IND,India,18,Prendas de vestir,13732.9,291082,3997411021.0,6412883.0
+IND,India,19,Cuero y calzado,26606.6,158349,4213134989.0,152554054.0
+IND,India,20,Madera y corcho,12848.6,274275,3524057412.0,2141905.0
+IND,India,21,Papel y celulosa,50186.4,114162,5729377550.0,39211296916.0
+IND,India,24,Sustancias y prod. quimicos,50034.4,124621,6235341055.0,69351295136.0
+IND,India,25,Caucho y plastico,15129.6,191874,2902973620.0,18254248.0
+IND,India,26,Minerales no metalicos,19442.2,115023,2236300248.0,105097045.0
+IND,India,27,Metales comunes (basicos),30846.0,115920,3575665434.0,1905942497.0
+IND,India,28,Productos metalicos,19910.4,190074,3784455609.0,0.0
+IND,India,29,Maquinaria y equipo,16607.8,119572,1985825953.0,0.0
+IND,India,30,Maquinaria de oficina/comp.,61419.2,119354,7330628073.0,60508072614.0
+IND,India,31,Maquinaria electrica,30183.9,227422,6864474705.0,1266874876.0
+IND,India,32,Equipo de comunicaciones,26747.3,209935,5615193262.0,845103381.0
+IND,India,33,Instrumentos de precision,50914.1,112825,5744382060.0,44792706704.0
+IND,India,34,Vehiculos automotores,22829.0,101621,2319906022.0,503004947.0
+IND,India,35,Otro equipo de transporte,25760.3,241907,6231602341.0,575966266.0
+IND,India,36,Muebles y otras manuf.,17553.4,221512,3888287773.0,0.0
+ITA,Italia,15,Alimentos y bebidas,114216.6,362056,41352790624.0,12343499981.0
+ITA,Italia,17,Textiles,70881.7,296245,20998361943.0,34387817.0
+ITA,Italia,18,Prendas de vestir,73180.0,363367,26591206144.0,81005908.0
+ITA,Italia,19,Cuero y calzado,76245.9,359026,27374270200.0,98587480.0
+ITA,Italia,20,Madera y corcho,55736.5,375535,20931012152.0,0.0
+ITA,Italia,21,Papel y celulosa,203599.2,332250,67645825152.0,27463361508.0
+ITA,Italia,24,Sustancias y prod. quimicos,165465.9,322977,53441672785.0,34909990845.0
+ITA,Italia,25,Caucho y plastico,67160.1,219391,14734311621.0,0.0
+ITA,Italia,26,Minerales no metalicos,60715.6,273571,16610024803.0,9692698.0
+ITA,Italia,27,Metales comunes (basicos),54822.3,297398,16304045158.0,0.0
+ITA,Italia,28,Productos metalicos,85805.8,583432,50061865630.0,128669607.0
+ITA,Italia,29,Maquinaria y equipo,88053.7,234293,20630362976.0,508028307.0
+ITA,Italia,30,Maquinaria de oficina/comp.,185672.1,178172,33081571911.0,16087018457.0
+ITA,Italia,31,Maquinaria electrica,137893.9,286116,39453662600.0,15239640305.0
+ITA,Italia,32,Equipo de comunicaciones,78134.6,203038,15864285097.0,0.0
+ITA,Italia,33,Instrumentos de precision,166163.1,255364,42432070156.0,70165994530.0
+ITA,Italia,34,Vehiculos automotores,139437.0,210350,29330565670.0,12150799009.0
+ITA,Italia,35,Otro equipo de transporte,239627.9,327540,78487722360.0,170221684165.0
+ITA,Italia,36,Muebles y otras manuf.,102086.4,433701,44274975732.0,230508851.0
+JPN,Japon,15,Alimentos y bebidas,60021.1,521712,31313747078.0,1983059.0
+JPN,Japon,17,Textiles,81578.0,616083,50258848621.0,13745804.0
+JPN,Japon,18,Prendas de vestir,57845.7,793928,45925342937.0,755179.0
+JPN,Japon,19,Cuero y calzado,69548.3,720497,50109355092.0,1861171.0
+JPN,Japon,20,Madera y corcho,69170.9,358780,24817120488.0,0.0
+JPN,Japon,21,Papel y celulosa,68355.5,445338,30441321366.0,2803756.0
+JPN,Japon,24,Sustancias y prod. quimicos,119937.3,239729,28752447874.0,211168920.0
+JPN,Japon,25,Caucho y plastico,101411.1,410299,41608867020.0,22051612.0
+JPN,Japon,26,Minerales no metalicos,97639.6,519113,50685980356.0,55063401.0
+JPN,Japon,27,Metales comunes (basicos),171720.8,348401,59827687322.0,2630239291.0
+JPN,Japon,28,Productos metalicos,188440.7,299189,56379395245.0,1687074201.0
+JPN,Japon,29,Maquinaria y equipo,193847.0,495675,96085105245.0,2632614662.0
+JPN,Japon,30,Maquinaria de oficina/comp.,179060.0,311522,55781124945.0,195757109.0
+JPN,Japon,31,Maquinaria electrica,100903.9,411148,41486444707.0,0.0
+JPN,Japon,32,Equipo de comunicaciones,350701.0,245248,86008721672.0,173254411209.0
+JPN,Japon,33,Instrumentos de precision,124386.5,347623,43239595213.0,202193272.0
+JPN,Japon,34,Vehiculos automotores,363518.9,496437,180464222768.0,365042149921.0
+JPN,Japon,35,Otro equipo de transporte,231982.7,483810,112235565015.0,11869920049.0
+JPN,Japon,36,Muebles y otras manuf.,208073.7,690443,143663034886.0,2146973378.0
+KOR,Corea del Sur,15,Alimentos y bebidas,46201.3,371020,17141620527.0,0.0
+KOR,Corea del Sur,17,Textiles,41556.0,529306,21995817865.0,101701.0
+KOR,Corea del Sur,18,Prendas de vestir,87065.7,474811,41339745003.0,34817822.0
+KOR,Corea del Sur,19,Cuero y calzado,30698.4,477933,14671762658.0,13364.0
+KOR,Corea del Sur,20,Madera y corcho,71051.2,360612,25621924837.0,3312040.0
+KOR,Corea del Sur,21,Papel y celulosa,126478.9,244666,30945096599.0,413191085.0
+KOR,Corea del Sur,24,Sustancias y prod. quimicos,110702.3,331825,36733781757.0,444124357.0
+KOR,Corea del Sur,25,Caucho y plastico,123298.6,296492,36557038317.0,226846010.0
+KOR,Corea del Sur,26,Minerales no metalicos,84454.7,288238,24343045058.0,37284485.0
+KOR,Corea del Sur,27,Metales comunes (basicos),193172.7,355259,68626342157.0,19920591013.0
+KOR,Corea del Sur,28,Productos metalicos,69103.1,301466,20832232259.0,9221576.0
+KOR,Corea del Sur,29,Maquinaria y equipo,205399.1,192451,39529262562.0,9793825406.0
+KOR,Corea del Sur,30,Maquinaria de oficina/comp.,271941.3,251717,68452247159.0,83887962445.0
+KOR,Corea del Sur,31,Maquinaria electrica,91707.4,304564,27930769218.0,0.0
+KOR,Corea del Sur,32,Equipo de comunicaciones,247354.3,350768,86763970967.0,59505449669.0
+KOR,Corea del Sur,33,Instrumentos de precision,84462.8,220417,18617042969.0,0.0
+KOR,Corea del Sur,34,Vehiculos automotores,316458.2,183177,57967864692.0,254876262637.0
+KOR,Corea del Sur,35,Otro equipo de transporte,144248.8,328104,47328596808.0,734159659.0
+KOR,Corea del Sur,36,Muebles y otras manuf.,43775.1,544147,23820108146.0,0.0
+MAR,Marruecos,15,Alimentos y bebidas,19812.4,22969,455071748.0,0.0
+MAR,Marruecos,17,Textiles,33592.1,20921,702779488.0,154499895.0
+MAR,Marruecos,18,Prendas de vestir,14992.4,27426,411181221.0,0.0
+MAR,Marruecos,19,Cuero y calzado,32231.3,33382,1075944132.0,26295935.0
+MAR,Marruecos,20,Madera y corcho,23817.9,30844,734639310.0,8921116.0
+MAR,Marruecos,21,Papel y celulosa,27840.0,21119,587951976.0,0.0
+MAR,Marruecos,24,Sustancias y prod. quimicos,45378.9,16379,743261620.0,1910464926.0
+MAR,Marruecos,25,Caucho y plastico,38302.2,19545,748616952.0,395401643.0
+MAR,Marruecos,26,Minerales no metalicos,24702.2,22215,548758946.0,10819579.0
+MAR,Marruecos,27,Metales comunes (basicos),32377.0,17846,577799321.0,0.0
+MAR,Marruecos,28,Productos metalicos,27198.1,18223,495630971.0,0.0
+MAR,Marruecos,29,Maquinaria y equipo,62150.5,11024,685146826.0,14540849358.0
+MAR,Marruecos,30,Maquinaria de oficina/comp.,27759.0,10755,298547933.0,0.0
+MAR,Marruecos,31,Maquinaria electrica,38788.7,11731,455030656.0,0.0
+MAR,Marruecos,32,Equipo de comunicaciones,45858.7,14382,659539121.0,2445903362.0
+MAR,Marruecos,33,Instrumentos de precision,26338.6,10339,272314578.0,0.0
+MAR,Marruecos,34,Vehiculos automotores,45915.8,8183,375728865.0,0.0
+MAR,Marruecos,35,Otro equipo de transporte,36022.2,16571,596923645.0,205297689.0
+MAR,Marruecos,36,Muebles y otras manuf.,22494.3,24969,561659974.0,4747800.0
+MEX,Mexico,15,Alimentos y bebidas,33463.4,295570,9890786180.0,94782883.0
+MEX,Mexico,17,Textiles,20980.8,314383,6595994841.0,0.0
+MEX,Mexico,18,Prendas de vestir,22843.1,450585,10292755231.0,4052408.0
+MEX,Mexico,19,Cuero y calzado,16049.4,495384,7950613005.0,87909.0
+MEX,Mexico,20,Madera y corcho,21950.5,385708,8466470663.0,0.0
+MEX,Mexico,21,Papel y celulosa,27497.0,523492,14394443666.0,17105825.0
+MEX,Mexico,24,Sustancias y prod. quimicos,70627.0,192073,13565540865.0,11437008645.0
+MEX,Mexico,25,Caucho y plastico,36190.9,144576,5232338416.0,79929101.0
+MEX,Mexico,26,Minerales no metalicos,61186.2,243419,14893877315.0,1375981672.0
+MEX,Mexico,27,Metales comunes (basicos),26273.6,285737,7507333395.0,0.0
+MEX,Mexico,28,Productos metalicos,55700.1,331718,18476716598.0,1230343324.0
+MEX,Mexico,29,Maquinaria y equipo,63558.9,236900,15057098054.0,4832797482.0
+MEX,Mexico,30,Maquinaria de oficina/comp.,51369.3,247296,12703423508.0,843941357.0
+MEX,Mexico,31,Maquinaria electrica,93243.6,308832,28796612375.0,23340894955.0
+MEX,Mexico,32,Equipo de comunicaciones,109211.5,170412,18610951723.0,265855682223.0
+MEX,Mexico,33,Instrumentos de precision,59775.2,160003,9564204370.0,0.0
+MEX,Mexico,34,Vehiculos automotores,83507.2,256599,21427859801.0,47250629563.0
+MEX,Mexico,35,Otro equipo de transporte,63696.7,283095,18032223867.0,2006572958.0
+MEX,Mexico,36,Muebles y otras manuf.,37997.0,228912,8697974029.0,53636629.0
+MYS,Malasia,15,Alimentos y bebidas,41211.0,127530,5255639916.0,335064088.0
+MYS,Malasia,17,Textiles,29134.6,137701,4011867330.0,0.0
+MYS,Malasia,18,Prendas de vestir,20011.8,169541,3392821124.0,757648.0
+MYS,Malasia,19,Cuero y calzado,59970.3,122722,7359678331.0,213363818.0
+MYS,Malasia,20,Madera y corcho,41424.0,136793,5666514010.0,0.0
+MYS,Malasia,21,Papel y celulosa,103238.0,128021,13216635371.0,41612020159.0
+MYS,Malasia,24,Sustancias y prod. quimicos,77919.1,111449,8684002442.0,0.0
+MYS,Malasia,25,Caucho y plastico,41220.4,84087,3466102606.0,55314574.0
+MYS,Malasia,26,Minerales no metalicos,51301.6,86257,4425124659.0,243406292.0
+MYS,Malasia,27,Metales comunes (basicos),61323.9,116678,7155155048.0,1186834507.0
+MYS,Malasia,28,Productos metalicos,82392.0,93407,7695989901.0,7243977804.0
+MYS,Malasia,29,Maquinaria y equipo,97545.8,91898,8964264772.0,28825820669.0
+MYS,Malasia,30,Maquinaria de oficina/comp.,78523.2,65444,5138874480.0,6176761602.0
+MYS,Malasia,31,Maquinaria electrica,52519.9,87919,4617495858.0,0.0
+MYS,Malasia,32,Equipo de comunicaciones,58980.7,130793,7714257428.0,1047800769.0
+MYS,Malasia,33,Instrumentos de precision,99385.2,98067,9746403829.0,32088483280.0
+MYS,Malasia,34,Vehiculos automotores,80928.5,129302,10464219477.0,12257942101.0
+MYS,Malasia,35,Otro equipo de transporte,93336.0,50543,4717479302.0,7812683551.0
+MYS,Malasia,36,Muebles y otras manuf.,20690.0,216397,4477260246.0,0.0
+PER,Peru,15,Alimentos y bebidas,29665.3,12439,369006558.0,13624035.0
+PER,Peru,17,Textiles,74549.3,18074,1347403713.0,1971473737.0
+PER,Peru,18,Prendas de vestir,21477.5,15531,333566453.0,857930.0
+PER,Peru,19,Cuero y calzado,35524.0,11067,393143655.0,5409692.0
+PER,Peru,20,Madera y corcho,32238.8,15991,515530905.0,8274027.0
+PER,Peru,21,Papel y celulosa,34272.9,11394,390505059.0,24953717.0
+PER,Peru,24,Sustancias y prod. quimicos,28936.5,7406,214303806.0,0.0
+PER,Peru,25,Caucho y plastico,42028.7,15369,645938448.0,122145313.0
+PER,Peru,26,Minerales no metalicos,19122.4,14258,272647363.0,0.0
+PER,Peru,27,Metales comunes (basicos),63446.4,5080,322307483.0,1144766397.0
+PER,Peru,28,Productos metalicos,28539.2,12297,350946758.0,0.0
+PER,Peru,29,Maquinaria y equipo,57778.3,5439,314256336.0,2584076965.0
+PER,Peru,30,Maquinaria de oficina/comp.,98316.2,10205,1003316375.0,7399244178.0
+PER,Peru,31,Maquinaria electrica,38876.3,10047,390589823.0,48439419.0
+PER,Peru,32,Equipo de comunicaciones,28741.1,14600,419620669.0,29309050.0
+PER,Peru,33,Instrumentos de precision,38933.8,6647,258793247.0,0.0
+PER,Peru,34,Vehiculos automotores,41380.5,9381,388190495.0,0.0
+PER,Peru,35,Otro equipo de transporte,51765.4,7688,397972267.0,0.0
+PER,Peru,36,Muebles y otras manuf.,44064.2,16767,738824411.0,120596391.0
+PHL,Filipinas,15,Alimentos y bebidas,14985.6,36028,539900493.0,1884171.0
+PHL,Filipinas,17,Textiles,25062.3,72640,1820527909.0,10866385.0
+PHL,Filipinas,18,Prendas de vestir,10998.9,62083,682846524.0,37838.0
+PHL,Filipinas,19,Cuero y calzado,27906.0,86020,2400474181.0,30172642.0
+PHL,Filipinas,20,Madera y corcho,14794.9,70505,1043111585.0,0.0
+PHL,Filipinas,21,Papel y celulosa,27365.9,51518,1409834481.0,13000756.0
+PHL,Filipinas,24,Sustancias y prod. quimicos,26812.3,47531,1274415618.0,52458178.0
+PHL,Filipinas,25,Caucho y plastico,28641.4,38756,1110026915.0,0.0
+PHL,Filipinas,26,Minerales no metalicos,13535.3,53313,721609040.0,398625.0
+PHL,Filipinas,27,Metales comunes (basicos),44491.0,46593,2072967632.0,666707660.0
+PHL,Filipinas,28,Productos metalicos,20259.9,49144,995652986.0,5081776.0
+PHL,Filipinas,29,Maquinaria y equipo,26741.3,41959,1122037382.0,0.0
+PHL,Filipinas,30,Maquinaria de oficina/comp.,26052.3,41937,1092557355.0,0.0
+PHL,Filipinas,31,Maquinaria electrica,26714.9,47273,1262893626.0,0.0
+PHL,Filipinas,32,Equipo de comunicaciones,85645.9,39414,3375645851.0,58192787856.0
+PHL,Filipinas,33,Instrumentos de precision,30404.5,36571,1111923219.0,55925061.0
+PHL,Filipinas,34,Vehiculos automotores,39693.4,42196,1674902637.0,883939183.0
+PHL,Filipinas,35,Otro equipo de transporte,26025.8,32776,853022781.0,0.0
+PHL,Filipinas,36,Muebles y otras manuf.,16727.4,35926,600947341.0,650630.0
+POL,Polonia,15,Alimentos y bebidas,54024.9,101897,5504978326.0,0.0
+POL,Polonia,17,Textiles,43576.8,199445,8691173342.0,271004413.0
+POL,Polonia,18,Prendas de vestir,45568.3,233010,10617880293.0,0.0
+POL,Polonia,19,Cuero y calzado,37532.8,180349,6769003237.0,48509221.0
+POL,Polonia,20,Madera y corcho,31335.5,174144,5456882113.0,9954529.0
+POL,Polonia,21,Papel y celulosa,27819.6,115402,3210438183.0,15381899.0
+POL,Polonia,24,Sustancias y prod. quimicos,59343.7,124766,7404072812.0,5133699505.0
+POL,Polonia,25,Caucho y plastico,43976.2,144149,6339129923.0,201930004.0
+POL,Polonia,26,Minerales no metalicos,60296.8,281022,16944724063.0,2029898035.0
+POL,Polonia,27,Metales comunes (basicos),62977.6,143859,9059895162.0,1519265877.0
+POL,Polonia,28,Productos metalicos,22521.0,129702,2921021160.0,3787874.0
+POL,Polonia,29,Maquinaria y equipo,44971.8,135930,6113010970.0,0.0
+POL,Polonia,30,Maquinaria de oficina/comp.,111159.4,110505,12283666252.0,165879155348.0
+POL,Polonia,31,Maquinaria electrica,89114.3,96061,8560408676.0,12577669636.0
+POL,Polonia,32,Equipo de comunicaciones,52068.6,165149,8599072786.0,0.0
+POL,Polonia,33,Instrumentos de precision,58398.3,89123,5204633917.0,0.0
+POL,Polonia,34,Vehiculos automotores,54186.4,153559,8320804826.0,0.0
+POL,Polonia,35,Otro equipo de transporte,77344.8,156371,12094481562.0,2783356790.0
+POL,Polonia,36,Muebles y otras manuf.,58456.5,167584,9796372616.0,858853742.0
+PRY,Paraguay,15,Alimentos y bebidas,18054.7,3313,59815150.0,0.0
+PRY,Paraguay,17,Textiles,25598.7,3330,85243751.0,7249717.0
+PRY,Paraguay,18,Prendas de vestir,19696.2,2820,55543189.0,1605251.0
+PRY,Paraguay,19,Cuero y calzado,16484.4,3732,61519854.0,237063.0
+PRY,Paraguay,20,Madera y corcho,13616.3,4069,55404622.0,0.0
+PRY,Paraguay,21,Papel y celulosa,15139.9,3040,46025186.0,0.0
+PRY,Paraguay,24,Sustancias y prod. quimicos,25831.6,2648,68402096.0,0.0
+PRY,Paraguay,25,Caucho y plastico,40022.2,4876,195148386.0,176033889.0
+PRY,Paraguay,26,Minerales no metalicos,22882.2,2984,68280623.0,0.0
+PRY,Paraguay,27,Metales comunes (basicos),28780.1,2947,84814864.0,45315631.0
+PRY,Paraguay,28,Productos metalicos,30790.3,2662,81963814.0,35784645.0
+PRY,Paraguay,29,Maquinaria y equipo,38415.6,1776,68226175.0,97665088.0
+PRY,Paraguay,30,Maquinaria de oficina/comp.,18265.7,1449,26466984.0,0.0
+PRY,Paraguay,31,Maquinaria electrica,21304.7,3148,67067156.0,0.0
+PRY,Paraguay,32,Equipo de comunicaciones,24320.8,1875,45601456.0,7919080.0
+PRY,Paraguay,33,Instrumentos de precision,49718.2,2391,118876159.0,817377103.0
+PRY,Paraguay,34,Vehiculos automotores,51341.3,2932,150532667.0,2231946577.0
+PRY,Paraguay,35,Otro equipo de transporte,29914.9,2137,63928094.0,0.0
+PRY,Paraguay,36,Muebles y otras manuf.,30727.2,1787,54909493.0,24879068.0
+THA,Tailandia,15,Alimentos y bebidas,40912.9,142140,5815359421.0,5447164950.0
+THA,Tailandia,17,Textiles,31197.2,92700,2891982032.0,95157692.0
+THA,Tailandia,18,Prendas de vestir,22991.4,183245,4213052605.0,10931887.0
+THA,Tailandia,19,Cuero y calzado,14975.7,130940,1960916320.0,2072158.0
+THA,Tailandia,20,Madera y corcho,20302.8,127733,2593342813.0,12262184.0
+THA,Tailandia,21,Papel y celulosa,27450.9,163510,4488500251.0,31786354.0
+THA,Tailandia,24,Sustancias y prod. quimicos,68507.4,118645,8128061225.0,84309990151.0
+THA,Tailandia,25,Caucho y plastico,36004.3,111147,4001773611.0,352491489.0
+THA,Tailandia,26,Minerales no metalicos,42707.2,139945,5976654557.0,1021795595.0
+THA,Tailandia,27,Metales comunes (basicos),66717.2,90385,6030237268.0,17088884929.0
+THA,Tailandia,28,Productos metalicos,23114.4,217577,5029153999.0,13823463.0
+THA,Tailandia,29,Maquinaria y equipo,39782.6,100757,4008375239.0,636496796.0
+THA,Tailandia,30,Maquinaria de oficina/comp.,44247.3,73694,3260763481.0,2012718246.0
+THA,Tailandia,31,Maquinaria electrica,58118.9,92450,5373087706.0,7139333883.0
+THA,Tailandia,32,Equipo de comunicaciones,56653.9,110736,6273625501.0,17410753314.0
+THA,Tailandia,33,Instrumentos de precision,51212.8,100635,5153799964.0,1761281393.0
+THA,Tailandia,34,Vehiculos automotores,52814.8,57097,3015565574.0,12930256329.0
+THA,Tailandia,35,Otro equipo de transporte,53588.1,149950,8035533087.0,9720953577.0
+THA,Tailandia,36,Muebles y otras manuf.,12524.9,152590,1911181120.0,1845613.0
+TUR,Turquia,15,Alimentos y bebidas,27743.4,132494,3675830388.0,0.0
+TUR,Turquia,17,Textiles,19363.8,220301,4265875248.0,108839.0
+TUR,Turquia,18,Prendas de vestir,36437.1,173342,6316084638.0,3937550.0
+TUR,Turquia,19,Cuero y calzado,47852.7,151845,7266191096.0,40667356.0
+TUR,Turquia,20,Madera y corcho,29741.9,156144,4644016637.0,588298.0
+TUR,Turquia,21,Papel y celulosa,46932.2,107029,5023103546.0,116159410.0
+TUR,Turquia,24,Sustancias y prod. quimicos,85192.3,80239,6835745274.0,4311752306.0
+TUR,Turquia,25,Caucho y plastico,57456.8,121023,6953593097.0,134213609.0
+TUR,Turquia,26,Minerales no metalicos,53676.3,104741,5622114520.0,88489722.0
+TUR,Turquia,27,Metales comunes (basicos),92543.1,137518,12726346023.0,7596858347.0
+TUR,Turquia,28,Productos metalicos,50561.8,111522,5638752533.0,291374079.0
+TUR,Turquia,29,Maquinaria y equipo,60351.3,95006,5733735872.0,182972464.0
+TUR,Turquia,30,Maquinaria de oficina/comp.,69201.3,60048,4155398288.0,161952194.0
+TUR,Turquia,31,Maquinaria electrica,55321.3,63830,3531155466.0,312272327.0
+TUR,Turquia,32,Equipo de comunicaciones,73509.4,90931,6684283628.0,6190790682.0
+TUR,Turquia,33,Instrumentos de precision,148287.0,119673,17745944952.0,128726884914.0
+TUR,Turquia,34,Vehiculos automotores,69768.0,74298,5183623200.0,1455150882.0
+TUR,Turquia,35,Otro equipo de transporte,68668.2,99592,6838803240.0,383745982.0
+TUR,Turquia,36,Muebles y otras manuf.,20870.0,114586,2391406142.0,634302.0
+URY,Uruguay,15,Alimentos y bebidas,30867.6,4567,140972175.0,159128.0
+URY,Uruguay,17,Textiles,28121.1,4824,135656276.0,0.0
+URY,Uruguay,18,Prendas de vestir,33377.2,4118,137447481.0,82872.0
+URY,Uruguay,19,Cuero y calzado,23732.1,10242,243064610.0,10791.0
+URY,Uruguay,20,Madera y corcho,33100.6,6835,226242433.0,197660.0
+URY,Uruguay,21,Papel y celulosa,38175.0,2959,112959920.0,0.0
+URY,Uruguay,24,Sustancias y prod. quimicos,77639.7,2329,180822822.0,0.0
+URY,Uruguay,25,Caucho y plastico,31582.2,2695,85113997.0,0.0
+URY,Uruguay,26,Minerales no metalicos,58265.6,3708,216048929.0,7986764.0
+URY,Uruguay,27,Metales comunes (basicos),45099.4,2814,126909845.0,0.0
+URY,Uruguay,28,Productos metalicos,29447.8,3709,109222070.0,246059.0
+URY,Uruguay,29,Maquinaria y equipo,32126.1,3127,100458332.0,0.0
+URY,Uruguay,30,Maquinaria de oficina/comp.,118549.3,3886,460682499.0,1396614924.0
+URY,Uruguay,31,Maquinaria electrica,63048.8,2754,173636462.0,0.0
+URY,Uruguay,32,Equipo de comunicaciones,44860.4,3439,154275054.0,0.0
+URY,Uruguay,33,Instrumentos de precision,83786.0,2892,242309139.0,170530488.0
+URY,Uruguay,34,Vehiculos automotores,123338.8,3429,422928693.0,2810446606.0
+URY,Uruguay,35,Otro equipo de transporte,66796.2,2650,177009814.0,14883976.0
+URY,Uruguay,36,Muebles y otras manuf.,26166.4,4333,113378849.0,0.0
+USA,Estados Unidos,15,Alimentos y bebidas,113653.3,523974,59551364363.0,19137919.0
+USA,Estados Unidos,17,Textiles,143817.6,700776,100783910786.0,131048386.0
+USA,Estados Unidos,18,Prendas de vestir,79816.8,946744,75566066634.0,3569328.0
+USA,Estados Unidos,19,Cuero y calzado,133588.7,659369,88084243720.0,176501545.0
+USA,Estados Unidos,20,Madera y corcho,100348.1,743725,74631405193.0,11359409.0
+USA,Estados Unidos,21,Papel y celulosa,95333.1,649078,61878628895.0,12710724.0
+USA,Estados Unidos,24,Sustancias y prod. quimicos,372552.5,616106,229531848584.0,232791479039.0
+USA,Estados Unidos,25,Caucho y plastico,123090.7,681082,83834837294.0,0.0
+USA,Estados Unidos,26,Minerales no metalicos,157282.8,547817,86162218634.0,205513154.0
+USA,Estados Unidos,27,Metales comunes (basicos),116092.9,329914,38300680931.0,0.0
+USA,Estados Unidos,28,Productos metalicos,94778.3,698631,66215057249.0,26860566.0
+USA,Estados Unidos,29,Maquinaria y equipo,201961.9,632850,127811586372.0,8866501467.0
+USA,Estados Unidos,30,Maquinaria de oficina/comp.,149115.6,499362,74462688451.0,0.0
+USA,Estados Unidos,31,Maquinaria electrica,184676.7,567946,104886380776.0,2273338979.0
+USA,Estados Unidos,32,Equipo de comunicaciones,146505.0,431191,63171654740.0,188738181.0
+USA,Estados Unidos,33,Instrumentos de precision,362718.7,591717,214626811498.0,201470843365.0
+USA,Estados Unidos,34,Vehiculos automotores,177095.5,466259,82572383390.0,5813446833.0
+USA,Estados Unidos,35,Otro equipo de transporte,478541.6,705739,337725483265.0,327411153143.0
+USA,Estados Unidos,36,Muebles y otras manuf.,90240.2,400124,36107274513.0,18946475.0
+VNM,Vietnam,15,Alimentos y bebidas,17701.9,191956,3397990586.0,7438378.0
+VNM,Vietnam,17,Textiles,18173.5,286792,5212020827.0,11023475.0
+VNM,Vietnam,18,Prendas de vestir,30305.8,362842,10996219168.0,985386552.0
+VNM,Vietnam,19,Cuero y calzado,25040.1,269491,6748075983.0,55781868.0
+VNM,Vietnam,20,Madera y corcho,11422.4,254486,2906842150.0,110850.0
+VNM,Vietnam,21,Papel y celulosa,35192.0,203341,7155984863.0,466049370.0
+VNM,Vietnam,24,Sustancias y prod. quimicos,19843.8,125527,2490930206.0,0.0
+VNM,Vietnam,25,Caucho y plastico,31614.6,170171,5379889372.0,389943747.0
+VNM,Vietnam,26,Minerales no metalicos,25081.2,208182,5221446108.0,84929187.0
+VNM,Vietnam,27,Metales comunes (basicos),25782.1,182726,4711051411.0,76598712.0
+VNM,Vietnam,28,Productos metalicos,31567.9,199507,6298023259.0,547227207.0
+VNM,Vietnam,29,Maquinaria y equipo,28527.4,130566,3724706019.0,510798433.0
+VNM,Vietnam,30,Maquinaria de oficina/comp.,51118.0,123346,6305202410.0,12860057533.0
+VNM,Vietnam,31,Maquinaria electrica,24325.9,119577,2908812375.0,162775711.0
+VNM,Vietnam,32,Equipo de comunicaciones,77207.7,91488,7063581607.0,65254758500.0
+VNM,Vietnam,33,Instrumentos de precision,71097.7,92416,6570565240.0,148205592016.0
+VNM,Vietnam,34,Vehiculos automotores,21589.5,159243,3437976216.0,0.0
+VNM,Vietnam,35,Otro equipo de transporte,33958.2,242608,8238539321.0,271472680.0
+VNM,Vietnam,36,Muebles y otras manuf.,20185.9,269166,5433355781.0,11144500.0
+ZAF,Sudafrica,15,Alimentos y bebidas,49433.3,64225,3174850567.0,466899581.0
+ZAF,Sudafrica,17,Textiles,25491.0,50747,1293594251.0,1566732.0
+ZAF,Sudafrica,18,Prendas de vestir,48386.6,75299,3643459834.0,349798967.0
+ZAF,Sudafrica,19,Cuero y calzado,51348.6,63147,3242511519.0,0.0
+ZAF,Sudafrica,20,Madera y corcho,36157.4,41884,1514414724.0,15177654.0
+ZAF,Sudafrica,21,Papel y celulosa,45543.2,36637,1668567239.0,80944598.0
+ZAF,Sudafrica,24,Sustancias y prod. quimicos,81334.2,28190,2292810137.0,6147399893.0
+ZAF,Sudafrica,25,Caucho y plastico,44782.0,36581,1638170856.0,29682677.0
+ZAF,Sudafrica,26,Minerales no metalicos,36603.2,58610,2145315090.0,100381094.0
+ZAF,Sudafrica,27,Metales comunes (basicos),84816.8,61660,5229803114.0,9157810545.0
+ZAF,Sudafrica,28,Productos metalicos,31416.5,46545,1462283058.0,47747375.0
+ZAF,Sudafrica,29,Maquinaria y equipo,75452.2,45529,3435261753.0,1790316957.0
+ZAF,Sudafrica,30,Maquinaria de oficina/comp.,42452.3,38200,1621676310.0,71910863.0
+ZAF,Sudafrica,31,Maquinaria electrica,62479.8,38616,2412718183.0,1125056293.0
+ZAF,Sudafrica,32,Equipo de comunicaciones,49426.7,29477,1456951155.0,225107015.0
+ZAF,Sudafrica,33,Instrumentos de precision,89097.1,31476,2804419548.0,12617929150.0
+ZAF,Sudafrica,34,Vehiculos automotores,51075.7,25948,1325312652.0,866465408.0
+ZAF,Sudafrica,35,Otro equipo de transporte,98766.1,62541,6176927822.0,26845246366.0
+ZAF,Sudafrica,36,Muebles y otras manuf.,27988.2,37987,1063186055.0,0.0

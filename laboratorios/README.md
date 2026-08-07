@@ -14,4 +14,4 @@ Cada laboratorio incluye:
 - `datos/`: bases y diccionarios de variables;
 - `codigo/`: archivos reproducibles;
 - `plantillas/`: formatos de trabajo e informe; y
-- `solucion/`: materiales de solución de acceso docente.
+- `informe/`: informes y productos finales del laboratorio.

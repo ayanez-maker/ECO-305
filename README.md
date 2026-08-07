@@ -75,8 +75,6 @@ El curso incluye seis laboratorios aplicados:
 | [`notas/`](notas/) | Desarrollos matemáticos y notas técnicas |
 | [`lecturas/`](lecturas/) | Bibliografía y enlaces autorizados |
 | [`laboratorios/`](laboratorios/) | Guías, datos, código y productos de cada laboratorio |
-| [`datos/`](datos/) | Bases de datos, diccionarios y notas de fuentes |
-| [`codigo/`](codigo/) | Código reproducible en Stata, R y LaTeX |
 | [`ejercicios/`](ejercicios/) | Problemas, prácticas y preguntas de discusión |
 | [`evaluaciones/`](evaluaciones/) | Rúbricas e instrucciones que pueden compartirse |
 
